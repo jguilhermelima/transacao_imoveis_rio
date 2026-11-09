@@ -2,6 +2,8 @@
 
 Este repositório contém uma aplicação para análise de transações de imóveis no município do Rio de Janeiro, com base nos dados públicos do ITBI (Imposto sobre a Transmissão de Bens Imóveis).
 
+Dashboard disponível em https://transacao-imoveis-rio-de-janeiro.streamlit.app
+
 # Fonte dos Dados
 Os dados utilizados neste projeto foram obtidos a partir do portal [Data.Rio](https://www.data.rio/search?collection=dataset&groupIds=a6481110966e4559add86aa6c2b92b11&layout=grid), no conjunto de dados:
 
