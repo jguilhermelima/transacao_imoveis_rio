@@ -296,8 +296,6 @@ def main():
     st.markdown(
         "Dashboard utilizando dados de transações imobiliárias por Logradouro, na Cidade do Rio de Janeiro disponibilizado na [DATA.RIO](https://www.data.rio/datasets/5e4dda4d33f44b1eb9246559b281d1b8_8/explore)"
     )
-    exp1 = st.expander("Dataframe")
-    exp1.dataframe(df, hide_index=True)
 
     col1, col2 = st.columns([0.6, 0.4], gap="xsmall")
     col_card, col_grafico_linha = st.columns([0.2, 0.8], gap="xsmall")
@@ -330,6 +328,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# time para carregar dados
-# dados atualizados
