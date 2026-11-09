@@ -1,7 +1,8 @@
 [theme]
 backgroundColor = "#767672"
 textColor="#f2f4f2"
-metricValueFontWeight = 700
+metricValueFontWeight = 600
+metricValueFontSize = "29px"
 font = "monospace"
 headingFont = "monospace"
 
