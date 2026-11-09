@@ -1,0 +1,13 @@
+[theme]
+backgroundColor = "#767672"
+textColor="#f2f4f2"
+metricValueFontWeight = 700
+font = "monospace"
+headingFont = "monospace"
+
+[theme.sidebar]
+primaryColor="#6c7fa3"
+backgroundColor = "#383832"
+textColor="#f2f4f2"
+font = "monospace"
+headingFont = "monospace"
